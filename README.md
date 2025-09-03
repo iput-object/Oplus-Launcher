@@ -3,6 +3,12 @@
 **Oplus Launcher** is a modified launcher application based on ColorOS, OxygenOS, RealmeOS, and similar platforms.
 It is optimized for low-end devices and introduces unique customization options such as dock backgrounds, adjustable animation quality, and unlocked premium features.
 
+## Requirements
+
+* Android **15 or higher** (Can try on Lower versions as well!)
+* Rooted device with **Magisk**, **Apatch**, or **KernelSU (KSU)**
+* Disabled **signature verification** (can be patched manually or with [Apk-Protection-Patch](https://github.com/Mods-Center/Apk-Protection-Patch))
+
 ## Features
 
 * **Hotseat / Dock Background**
@@ -48,3 +54,5 @@ It is optimized for low-end devices and introduces unique customization options 
 ## Terms & Conditions
 
 * Please provide proper credit when using, modifying, or redistributing this project.
+
+
